@@ -43,7 +43,7 @@ src="https://github.com/AnchineshTaddese-IT/identity-lifecycle/blob/main/SaraMov
   
 <p> 
 </p> 
-<p> User transferred from IT to Cybersecurity department in the  organization. 
+<p> User transferred from IT to Cyber security department in the  organization. 
 </p> 
 <br /> 
 

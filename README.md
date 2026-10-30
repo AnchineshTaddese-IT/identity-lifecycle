@@ -33,7 +33,7 @@ User's   Joined the  organization.
 
 <p> 
 <img width="999" height="764" alt="image"  
-src="https://github.com/AnchineshTaddese-IT/identity-lifecycle/blob/main/SaraIT153200.png" /> 
+src="https://github.com/AnchineshTaddese-IT/identity-lifecycle/blob/main/sarajoin.png" /> 
 
 
 <p> 
@@ -43,7 +43,7 @@ src="https://github.com/AnchineshTaddese-IT/identity-lifecycle/blob/main/SaraMov
   
 <p> 
 </p> 
-<p> User transferred from IT to Cyber security department in the  organization. 
+<p> User transferred from Engineering to Cybersecurity department in the  organization. 
 </p> 
 <br /> 
 
